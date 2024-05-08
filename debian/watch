@@ -1,0 +1,7 @@
+# Tags in https://github.com/go-delve/liner repository is from
+# origin repository https://github.com/peterh/liner.
+
+version=4
+opts="mode=git, pgpmode=none, pretty=0.0~git%cd.%h" \
+  https://github.com/go-delve/liner \
+  heads/v1.2.1-1 debian
