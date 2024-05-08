@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-go-delve-liner (0.0~git20211124.709274f-2) unstable; urgency=medium
+
+  * Update Standards-Version to 4.6.1 (no changes)
+
+ -- Shengjing Zhu <zhsj@debian.org>  Fri, 24 Jun 2022 22:21:56 +0800
+
+golang-github-go-delve-liner (0.0~git20211124.709274f-1) unstable; urgency=medium
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Shengjing Zhu <zhsj@debian.org>  Fri, 17 Jun 2022 00:35:47 +0800
